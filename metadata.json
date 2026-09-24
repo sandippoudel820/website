@@ -1,0 +1,6 @@
+{
+  "name": "Surya Parquet - Laminate Flooring Kathmandu",
+  "description": "Surya Parquet in Gongabu, Kathmandu offers laminated parquet flooring, wood-look flooring, skirting, profiles and flooring accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
